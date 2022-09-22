@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+       "functionAppName": {
+        "value": "function0124023"
+      },
+	  "functionWorkerRuntime": {
+        "value": "java"
+      },
+	    "linuxFxVersion": {
+        "value": "JAVA|8-jre8"
+      },
+      "packageUri": {
+        "value": "1"
+      }
+  }
+}
