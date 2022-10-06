@@ -39,9 +39,7 @@
       "type": "string",
       "defaultValue": "node",
       "allowedValues": [
-        "dotnet",
-        "node",
-        "python",
+      
         "java"
       ],
       "metadata": {
