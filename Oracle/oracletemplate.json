@@ -4,8 +4,7 @@
   "parameters": {
     "functionAppName": {
       "type": "string",
-      "defaultValue": "[format('func-{0}', uniqueString(resourceGroup().id))]",
-      "metadata": {
+        "metadata": {
         "description": "The name of the Azure Function app."
       }
     },
