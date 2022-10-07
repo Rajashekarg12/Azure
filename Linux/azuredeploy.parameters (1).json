@@ -6,7 +6,7 @@
         "value": "function0124087"
       },
 	    "storageAccountName": {
-        "value": "storage0124087"
+        "value": "teststoragebyincrement"
       },
 	  "functionWorkerRuntime": {
         "value": "java"
