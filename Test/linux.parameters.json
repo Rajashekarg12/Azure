@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
        "functionAppName": {
-        "value": "${{DYNAMIC_APPNAME}}"
+        "value": "${{DYNAMIC_APPNAME1}}"
       },
 	  "functionWorkerRuntime": {
         "value": "java"
